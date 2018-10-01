@@ -12,6 +12,6 @@ public class StyleAlive extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        sTheme = R.style.AppTheme;
+
     }
 }
